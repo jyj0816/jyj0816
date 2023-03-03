@@ -17,6 +17,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-66595C.svg?&style=for-the-badge&logo=Atom&logoColor=white)
-![GitKraken](https://img.shields.io/badge/GitKraken-179287.svg?&style=for-the-badge&logo=GitKraken&logoColor=white
+![GitKraken](https://img.shields.io/badge/GitKraken-179287.svg?&style=for-the-badge&logo=GitKraken&logoColor=white)
+
 
 # 📧 Contacts
